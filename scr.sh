@@ -31,4 +31,11 @@ menu(){
   
 }
 
+fin(){
+
+   exit 0
+}
+
 menu
+
+fin()
